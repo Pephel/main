@@ -1,8 +1,6 @@
 import discord
 from bot_logic import gen_pass
 
-TOKEN = "MTE4MzQzNzU5MzcwMzA5MjIyNA.GwaSm2.k1KJPyQQoQgaW0PI3YF5FS8IcbdN4LAHQsBL4Q"
-
 # Переменная intents - хранит привилегии бота
 intents = discord.Intents.default()
 # Включаем привелегию на чтение сообщений
